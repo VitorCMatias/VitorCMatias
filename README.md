@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-### About me...
+### 🙃 About me...
 - 🔭 I’m currently working on personal and university projects.
 - 🌱 I’m currently learning Python for automation!
 - 👯 I’m looking to collaborate on C and C++ repos.
@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [Print colourful chars in the terminal](https://medium.com/@vitorcosta.matias/print-coloured-texts-in-console-a0db6f589138?source=rss-719fdaefc8a1------2)
 <!-- BLOG-POST-LIST:END -->
+
+
+
 ### 👨‍💻 Most used Languages!
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorCMatias&layout=compact&hide_title=true"/>  
