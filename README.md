@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love learning about random stuff!
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VitorCMatias&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VitorCMatias&count_private=true&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
