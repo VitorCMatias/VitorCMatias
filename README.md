@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 Most used Languages!
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorCMatias&layout=compact&hide_title=true&count_private=true"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorCMatias&layout=compact&hide_title=true&count_private=true&hide=pascal,html,css"/>  
  </p>
