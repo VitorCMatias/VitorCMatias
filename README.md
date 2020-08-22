@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### 📃 Latest Blog Posts!
 <!-- BLOG-POST-LIST:START -->
-- [How to print colourful chars in the terminal](https://medium.com/@vitorcosta.matias/print-coloured-texts-in-console-a0db6f589138?source=rss-719fdaefc8a1------2)
+- [C/C++: How to print colourful chars in the terminal](https://medium.com/@vitorcosta.matias/print-coloured-texts-in-console-a0db6f589138?source=rss-719fdaefc8a1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
