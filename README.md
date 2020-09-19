@@ -10,6 +10,7 @@ I am a bachelor student of Electronic Engineering at University of São Paulo, a
 
 Here are some ideas to get you started:
 -->
+
 ### 🙃 About me...
 - 🔭 I’m currently working on personal and university projects.
 - 🌱 I’m currently learning Python for automation!
@@ -37,3 +38,8 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorCMatias&layout=compact&hide_title=true&count_private=true&hide=pascal,html,css"/>  
  </p>
+ 
+ ### :wink: Social
+![GitHub Followers](https://img.shields.io/github/followers/VitorCMatias?label=Follow&style=social)
+![VitorCMatias](https://komarev.com/ghpvc/?username=VitorCMatias)
+ <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=VitorCMatias" alt="VitorCMatias"/> </p> -->
