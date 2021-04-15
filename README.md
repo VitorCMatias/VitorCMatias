@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 Most used Languages!
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorCMatias&layout=compact&hide_title=true&count_private=true&hide= JupyterNotebook,pascal,html,css"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorCMatias&layout=compact&hide_title=true&count_private=true&hide=jupyter-notebook,pascal,html,css"/>  
  </p>
  
  ### :wink: Social
