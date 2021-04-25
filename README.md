@@ -2,7 +2,7 @@
 
 
 <h4 align="center"> 
-I am a bachelor student of Electronic Engineering at University of São Paulo, and an enthusiast of C, C++ and Python. In my free time I enjoy work in personal projects, read and write about things that are interesting to me.
+I am a bachelor's student of Electronic Engineering at the University of São Paulo, and an enthusiast of C, C++ and Python.  Beyond that, I am the software manager at EESC USP, where I work with electrical formula cars. I develop sensors, control and telemetry systems. In my free time, I enjoy work on personal projects, read books and write articles about things that are interesting to me.
 </h4> 
 
 <!--
