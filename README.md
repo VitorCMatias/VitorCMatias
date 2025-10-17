@@ -12,7 +12,7 @@ I am Electrical Engineer @ USP and pursuing an MBA in Artificial Intelligence an
 Here are some ideas to get you started:
 -->
 
-### 🙃 About me...
+### About me...
 - 🌱 I’m currently learning AI and Big Data.
 - 📫 How to reach me: vitorcosta.matias@gmail.com
 - ⚡ Fun fact: I love books
