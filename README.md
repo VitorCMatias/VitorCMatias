@@ -2,7 +2,8 @@
 
 
 <h4 align="center"> 
-I am a bachelor's student of Electronic Engineering at the University of São Paulo, and an enthusiast of C, C++ and Python.  Beyond that, I was the software manager <a href="https://github.com/EESC-USP-TUPA">@EESC-USP TUPÃ</a>,during 2021, where I worked with electrical formula cars. I developed sensors, control and telemetry systems. In my free time, I enjoy work on personal projects, read books and write articles about things that are interesting to me.
+I am Electrical Engineer @ USP and pursuing an MBA in Artificial Intelligence and Big Data at ICMC-USP. I have hands-on experience in Python and C programming, with a strong focus on embedded systems, computer vision, and system development. During my undergraduate studies, I took part in a research project under FAPESP’s Young Researcher Program, where I worked on real-time systems.
+
 </h4> 
 
 <!--
@@ -12,14 +13,9 @@ Here are some ideas to get you started:
 -->
 
 ### 🙃 About me...
-- 🔭 I’m currently working on personal and university projects.
-- 🌱 I’m currently learning Python for automation!
-- 👯 I’m looking to collaborate on C and C++ repos.
-- 🤔 I’m looking for help with C++ project organization.
-- 💬 Ask me about C and C++!
+- 🌱 I’m currently learning AI and Big Data.
 - 📫 How to reach me: vitorcosta.matias@gmail.com
-- ⚡ Fun fact: I love learning about random stuff!
-<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: I love books
 
 <!--<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=VitorCMatias&count_private=true&hide=stars,prs" alt="Vitor"/><br>
